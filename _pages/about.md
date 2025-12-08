@@ -8,8 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student at IIT Kharagpur pursuing a 5-year dual degree (B.Tech Hons. + M.Tech) in Chemical Engineering with a Minor in Artificial Intelligence. My research interests lie at the intersection of machine learning, materials science, and natural language processing.
+## ML Researcher & PhD Aspirant
 
-I have authored 5 research papers spanning diverse domains including privacy-preserving NLP (CipherBERT), AI-driven tooling frameworks (RTaC), lunar elemental mapping using Chandrayaan-2 data, and materials discovery for solid-state batteries. My work has been published/accepted at IEEE TPS 2025, NSLP 2024, RAAI 2024, and is under review at ICARUS.
+**Developing efficient LLM systems and AI-driven materials discovery for real-world impact.**
 
-Currently, I am working on my Master's thesis with Prof. Somnath Ganguly, developing machine learning frameworks to accelerate the discovery of solid electrolytes for next-generation batteries.
+I'm a final-year BTech+MTech student at IIT Kharagpur transitioning toward PhD research in machine learning and artificial intelligence. My work bridges deep learning, natural language processing, and materials informatics to solve practical problems.
+
+
+## Key Achievements
+
+- **7,000+ hackathon participants** managed through research and competition organization
+- **1,200+ students** mentored through teaching workshops and literacy initiatives  
+- **5 research publications** accepted at IEEE, NSLP, RAAI, and international venues
+- **IEEE TPS 2025** publication on privacy-preserving LLM systems (CipherBERT)
+- **Chandrayaan-2 CLASS data analysis** for lunar elemental mapping using XRF spectroscopy
+
+## Research Interests
+
+- **Deep Learning & NLP**: Large Language Model efficiency, tool use sequencing, privacy-preserving systems
+- **Materials Science**: ML-driven solid electrolyte discovery, DFT predictions
+- **Remote Sensing**: Elemental analysis and spectroscopic data processing
+- **Systems Design**: Optimizing inference, LoRA fine-tuning, model compression
+
+## Currently Seeking
+
+PhD positions in **Machine Learning and Artificial Intelligence** starting Fall 2026. Interested in research groups focused on LLM systems, NLP, or AI for scientific discovery.
