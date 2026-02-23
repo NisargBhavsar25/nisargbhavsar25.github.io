@@ -23,9 +23,8 @@ I'm a final-year BTech+MTech student at IIT Kharagpur transitioning toward PhD r
 
 ## Research Interests
 
-- **Deep Learning & NLP**: Large Language Model efficiency, tool use sequencing, privacy-preserving systems
-- **Materials Science**: ML-driven solid electrolyte discovery, DFT predictions
-- **Remote Sensing**: Elemental analysis and spectroscopic data processing
+- **NLP**: LLM & RAG efficiency, tool use sequencing, privacy-preserving systems
+- **AI For Science**: ML-driven solid electrolyte discovery, spectroscopic data processing
 - **Systems Design**: Optimizing inference, LoRA fine-tuning, model compression
 
 ## Currently Seeking
