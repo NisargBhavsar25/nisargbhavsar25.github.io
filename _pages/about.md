@@ -17,11 +17,9 @@ I'm a final-year BTech+MTech student at IIT Kharagpur transitioning toward PhD r
 
 ## Key Achievements
 
-- **7,000+ hackathon participants** managed through research and competition organization
+- **3 research publications** accepted at IEEE, NSLP, and RAAI
 - **1,200+ students** mentored through teaching workshops and literacy initiatives  
-- **5 research publications** accepted at IEEE, NSLP, RAAI, and international venues
-- **IEEE TPS 2025** publication on privacy-preserving LLM systems (CipherBERT)
-- **Chandrayaan-2 CLASS data analysis** for lunar elemental mapping using XRF spectroscopy
+- **7,000+ hackathon participants** managed through research and competition organization
 
 ## Research Interests
 
